@@ -1,1 +1,1 @@
-# translate-app
+# reactjs-translate-app
